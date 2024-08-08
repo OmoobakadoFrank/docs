@@ -1,3 +1,5 @@
+![Screenshot_20240722-153955](https://github.com/user-attachments/assets/39ac70b4-b975-4078-9695-41c7b59b05ce)
+![Screenshot_20240722-160358](https://github.com/user-attachments/assets/4a804c4f-543f-4c34-a2ae-45bc42a12b86)
 ---
 title: Managing email preferences
 intro: 'You can add or change the email addresses associated with your account on {% data variables.product.prodname_dotcom %}. You can also manage emails you receive from {% data variables.product.product_name %}.'
